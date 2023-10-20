@@ -1,5 +1,5 @@
 * {
-    font-family: 'Abel', sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 body {
@@ -52,40 +52,22 @@ h3 {
 }
 
 img {
-    border: 7px solid #f573d9;
+    border: 2px solid #f573d9;
     border-radius: 99px;
     padding: 5px;
     width: 350px;
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
+    align-items: center;
 }
 
 ul li {
     background: #cce5ff;
-    color: darkblue;
+    color: rgb(139, 0, 83);
     margin: 5px;
 }
 
-main a[href] {
-    border: 10px double;
-    color: #000000;
-}
-
-a[href="https://tecnolochicas.mx"] {
-    border: 10px double;
-    color: #000;
-}
-
-/*Modelo caja*/
-#cajas {
-    border: 5px solid rebeccapurple;
-    background-color: lightgray;
-    padding: 10px;
-    margin: 10px;
-    width: 100px;
-    height: 50px;
-}
 iframe{
     margin-left: auto;
     margin-right: auto; 
